@@ -1,0 +1,25 @@
+{
+  "name": "vef1-2023-v6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asge1r/vef1-2023-v6.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asge1r/vef1-2023-v6/issues"
+  },
+  "homepage": "https://github.com/asge1r/vef1-2023-v6#readme",
+  "devDependencies": {
+    "browsersync": "^0.0.1-security",
+    "sass": "^1.69.2",
+    "stylelint": "^15.10.3"
+  }
+}
